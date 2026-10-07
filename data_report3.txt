@@ -1,0 +1,91 @@
+============================================================
+1. LOW SALARIES (< 1000) BY COUNTRY (top 10)
+Country
+Ukraine                     80
+United States of America    70
+Nigeria                     43
+India                       42
+Brazil                      28
+Germany                     23
+Colombia                    22
+Pakistan                    21
+Viet Nam                    18
+Kenya                       17
+Name: count, dtype: int64
+
+Low-salary rows by Employment:
+Employment
+Employed                                                407
+Independent contractor, freelancer, or self-employed    138
+Student                                                 101
+Not employed                                             60
+Retired                                                  10
+I prefer not to say                                       8
+Name: count, dtype: int64
+
+2. ENCODING CHECK for EdLevel (repr shows the real characters)
+'Master’s degree (M.A., M.S., M.Eng., MBA, etc.)'
+'Associate degree (A.A., A.S., etc.)'
+'Bachelor’s degree (B.A., B.S., B.Eng., etc.)'
+'Some college/university study without earning a degree'
+
+3. WorkExp CHECKS (rows with salary)
+Missing WorkExp: 478
+WorkExp > 50: 49
+WorkExp > 60: 15
+WorkExp percentiles:
+0.50    11.0
+0.90    28.0
+0.95    33.0
+0.99    43.0
+Name: WorkExp, dtype: float64
+Missing WorkExp by Employment:
+Employment
+Employed                                                207
+Student                                                 193
+Not employed                                             36
+Independent contractor, freelancer, or self-employed     35
+I prefer not to say                                       5
+Retired                                                   2
+Name: count, dtype: int64
+
+4. WorkExp vs YearsCode
+Rows with both: 23400
+Correlation: 0.849
+WorkExp > YearsCode: 1821
+
+5. LANGUAGE COLUMN SAMPLES
+'Bash/Shell (all shells);Dart;SQL'
+'Java'
+'Dart;HTML/CSS;JavaScript;TypeScript'
+'Java;Kotlin;SQL'
+'C;C#;C++;Delphi;HTML/CSS;Java;JavaScript;Lua;PowerShell;Python;SQL;TypeScript;VBA;Visual Basic (.Net)'
+
+Top 20 individual languages:
+LanguageHaveWorkedWith
+JavaScript                 14873
+HTML/CSS                   13782
+SQL                        13546
+Python                     12730
+Bash/Shell (all shells)    11104
+TypeScript                 10336
+C#                          6397
+Java                        6283
+PowerShell                  5334
+C++                         4605
+PHP                         4097
+C                           4095
+Go                          3783
+Rust                        3117
+Kotlin                      2428
+Lua                         1857
+Ruby                        1550
+Dart                        1201
+Swift                       1198
+Assembly                    1187
+Name: count, dtype: int64
+Total distinct languages: 42
+
+6. ROWS REMAINING UNDER PROPOSED FILTERS (counts only)
+Rows after filters: 21835
+India rows after filters: 980

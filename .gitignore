@@ -1,0 +1,8 @@
+venv/
+_pycache_/
+*.pyc
+.env
+.streamlit/secrets.toml
+data/survey_results_public.csv
+models/best_salary_model.joblib
+models/random_forest.joblib

@@ -1,0 +1,165 @@
+Feature,Importance
+categorical__Country_United States of America,0.27990872936031647
+numeric__WorkExp,0.136697030124715
+numeric__YearsCode,0.08304628145219878
+"categorical__OrgSize_10,000 or more employees",0.021433435774811473
+categorical__Industry_Software Development,0.020505392974228973
+categorical__Country_Switzerland,0.019338070834424397
+categorical__Country_United Kingdom of Great Britain and Northern Ireland,0.014417138047501688
+languages__lang_go,0.013187094283040223
+categorical__RemoteWork_Remote,0.011625295261930534
+languages__lang_php,0.011002705320217007
+languages__lang_typescript,0.010386626080177907
+languages__lang_python,0.009735148804542935
+languages__lang_csharp,0.009473720757578548
+languages__lang_bash_shell,0.009422402756719156
+languages__lang_sql,0.008936394130496355
+languages__lang_html_css,0.008903182934861592
+"categorical__EdLevel_Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",0.008578293403999656
+languages__lang_java,0.00853279466043661
+"categorical__EdLevel_Bachelor’s degree (B.A., B.S., B.Eng., etc.)",0.008283155691737707
+"categorical__DevType_Developer, back-end",0.008061849545765587
+languages__lang_rust,0.0078299355121171
+languages__lang_javascript,0.007736682604019735
+"categorical__DevType_Developer, full-stack",0.007643970120051779
+categorical__RemoteWork_In-person,0.007624155186906016
+categorical__Country_Germany,0.007588929512603977
+"categorical__DevType_Senior executive (C-suite, VP, etc.)",0.007339358902925677
+categorical__Country_Canada,0.0072097936184662235
+languages__lang_cpp,0.007094681028699435
+languages__lang_powershell,0.007083597784704775
+categorical__Industry_Fintech,0.0070424843927258075
+categorical__Country_Israel,0.006813482859290727
+categorical__Country_Australia,0.006798529486561804
+"categorical__DevType_Architect, software or solutions",0.0060762991682079435
+languages__lang_kotlin,0.005841720066671884
+categorical__ICorPM_People manager,0.00565399805564532
+"categorical__RemoteWork_Hybrid (some remote, leans heavy to in-person)",0.005532248380078294
+"categorical__OrgSize_1,000 to 4,999 employees",0.005487638515821791
+categorical__Country_India,0.005350750266417206
+categorical__DevType_Engineering manager,0.005199778863208928
+languages__lang_c,0.00517219665578717
+categorical__OrgSize_Less than 20 employees,0.005166275859797595
+categorical__EdLevel_Some college/university study without earning a degree,0.004840584473993862
+categorical__ICorPM_Individual contributor,0.004816463393070548
+categorical__OrgSize_100 to 499 employees,0.0046801069359364775
+categorical__Country_Netherlands,0.004533977710581494
+categorical__Industry_Higher Education,0.004362127814203768
+"categorical__Employment_Independent contractor, freelancer, or self-employed",0.004247103873702613
+categorical__OrgSize_20 to 99 employees,0.0041548526731297955
+"categorical__Industry_Internet, Telecomm or Information Services",0.004125254022526782
+categorical__Country_Ireland,0.003969275746932336
+"categorical__OrgSize_5,000 to 9,999 employees",0.003886107390663803
+categorical__Employment_Employed,0.0038781610162076426
+categorical__Country_Singapore,0.003802931352820613
+categorical__OrgSize_500 to 999 employees,0.0037672528606908307
+"categorical__RemoteWork_Hybrid (some in-person, leans heavy to flexibility)",0.003684989363870529
+categorical__Industry_Banking/Financial Services,0.0035449119371500563
+"categorical__EdLevel_Professional degree (JD, MD, Ph.D, Ed.D, etc.)",0.0033731710510480754
+"categorical__RemoteWork_Your choice (very flexible, you can come in when you want or just as needed)",0.003367030321038705
+categorical__DevType_AI/ML engineer,0.0033463593171188244
+categorical__Industry_Other:,0.0032635919172911785
+"categorical__OrgSize_Just me - I am a freelancer, sole proprietor, etc.",0.003260307953026822
+categorical__OrgSize_Missing,0.0031950332568644246
+"categorical__DevType_Developer, desktop or enterprise applications",0.002845597433075168
+categorical__Country_Denmark,0.002625681136971251
+categorical__Country_infrequent_sklearn,0.0023532423520349556
+"categorical__EdLevel_Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",0.0023050459847671796
+categorical__DevType_Other (please specify):,0.002294784206675705
+categorical__RemoteWork_Missing,0.0021671462726950987
+categorical__Country_France,0.0021196482858056903
+categorical__DevType_Cloud infrastructure engineer,0.0020999637597799463
+categorical__Country_Norway,0.0020707860193463386
+categorical__Industry_Healthcare,0.0020612421890218147
+categorical__ICorPM_Missing,0.0018183797140672473
+categorical__Industry_Retail and Consumer Services,0.0017974743293620557
+categorical__Industry_Computer Systems Design and Services,0.001769597360283487
+categorical__Industry_Media & Advertising Services,0.001690018198358955
+categorical__Industry_Government,0.0016712999619185192
+"categorical__Country_Iran, Islamic Republic of...",0.0016629433936200672
+categorical__Country_Brazil,0.0016593326525277455
+"categorical__DevType_Developer, front-end",0.0016319727852949334
+"categorical__DevType_Developer, embedded applications or devices",0.0015971830155417249
+"categorical__DevType_Developer, mobile",0.0015934276005670133
+"categorical__DevType_Founder, technology or otherwise",0.0015715260063387832
+categorical__Country_Ukraine,0.0015616912146935752
+"categorical__Industry_Transportation, or Supply Chain",0.0015536319291989365
+categorical__Country_Belgium,0.0015462850328349417
+categorical__Country_Spain,0.0014974644893742874
+categorical__Country_Poland,0.001466983017454844
+categorical__DevType_Cybersecurity or InfoSec professional,0.001394048211552826
+categorical__DevType_DevOps engineer or professional,0.001383433911925035
+"categorical__EdLevel_Associate degree (A.A., A.S., etc.)",0.0012697686229908183
+categorical__Country_Austria,0.0012595494250397315
+categorical__Country_Hong Kong (S.A.R.),0.0011607703378289638
+categorical__DevType_Applied scientist,0.001157164269290733
+categorical__Industry_Energy,0.0011520249972035224
+categorical__Country_Sweden,0.0011046402944340965
+categorical__Industry_Manufacturing,0.001013024587331402
+categorical__Country_Portugal,0.0009176863240741557
+categorical__OrgSize_I don’t know,0.0009128161377533497
+categorical__DevType_Data engineer,0.0008840271132965722
+categorical__Country_New Zealand,0.0008316591327094465
+categorical__Country_Kenya,0.0007675092410913967
+categorical__Country_Romania,0.0007651777879471469
+categorical__DevType_Data scientist,0.0007547252517648954
+categorical__DevType_Academic researcher,0.0007192136121145652
+"categorical__DevType_Developer, AI apps or physical AI",0.0006904414101921108
+"categorical__DevType_Developer, game or graphics",0.0006883360947717119
+categorical__Country_Finland,0.0006433756176464187
+categorical__DevType_Project manager,0.0005767980263830717
+categorical__Country_Serbia,0.0005577015181411737
+categorical__Country_United Arab Emirates,0.000539359648642964
+categorical__DevType_System administrator,0.0005310105779338204
+categorical__Country_Japan,0.00048466023075243185
+categorical__Country_Italy,0.0004728865435231447
+categorical__Country_Estonia,0.0004193037424792848
+categorical__Country_Czech Republic,0.0004011045806724242
+categorical__DevType_Data or business analyst,0.00035557193248772533
+categorical__Country_Mexico,0.0003203332931344963
+categorical__DevType_Product manager,0.0002921176345821001
+categorical__Country_Bangladesh,0.0002822268631098349
+categorical__Industry_Insurance,0.00027922755674106086
+categorical__DevType_Database administrator or engineer,0.00024936380386515793
+categorical__Country_Greece,0.00024213193029381616
+categorical__Country_Hungary,0.0002358748191693075
+categorical__Country_Slovenia,0.00023428478895120685
+categorical__EdLevel_Other (please specify):,0.0002295122940613099
+categorical__DevType_Student,0.00022715342984956416
+categorical__Country_Bulgaria,0.0002250312061502
+categorical__Country_Turkey,0.00021985074190776805
+categorical__Industry_Missing,0.00020300280369704124
+categorical__Country_Philippines,0.00019166944673623746
+categorical__Country_Pakistan,0.00017741543080515934
+"categorical__DevType_Developer, QA or test",0.00017393904431917663
+categorical__Country_Lithuania,0.00017127702522792859
+categorical__Country_China,0.00016828465505438093
+categorical__Country_South Africa,0.00015741706573069408
+categorical__Country_Russian Federation,0.00015535997150043014
+categorical__Country_Argentina,0.0001551018723256064
+categorical__Country_Indonesia,0.0001509842866636876
+categorical__Country_Nigeria,0.00014502207728008288
+categorical__EdLevel_Primary/elementary school,0.00011506084306771026
+categorical__Country_Chile,0.00011076379397790565
+categorical__Country_Croatia,0.00010564150474132297
+categorical__Country_Colombia,0.00010456829077815622
+categorical__DevType_Support engineer or analyst,9.31839751877657e-05
+categorical__Country_Georgia,8.986914188716218e-05
+"categorical__DevType_UX, Research Ops or UI design professional",8.92698004667985e-05
+categorical__Country_Cyprus,8.844022791438665e-05
+categorical__Country_Sri Lanka,8.180601250121324e-05
+categorical__Country_Slovakia,7.454897815460811e-05
+categorical__DevType_Financial analyst or engineer,6.847496719334689e-05
+categorical__Country_Egypt,6.644860659355385e-05
+categorical__Country_Thailand,6.452460935091152e-05
+"categorical__Country_Venezuela, Bolivarian Republic of...",5.8763880966492986e-05
+categorical__Country_Peru,5.433676631584704e-05
+categorical__Country_Guatemala,3.726470116960232e-05
+categorical__Country_Taiwan,3.104961051954437e-05
+categorical__Country_Uruguay,2.77231332364612e-05
+categorical__EdLevel_infrequent_sklearn,1.4425045067300367e-05
+categorical__Country_Malaysia,1.0786972493139135e-05
+categorical__Country_Nepal,9.238276890917799e-06
+categorical__Country_Latvia,8.62257693696712e-06
+categorical__Country_Viet Nam,7.625297568488833e-06
+categorical__DevType_infrequent_sklearn,0.0
